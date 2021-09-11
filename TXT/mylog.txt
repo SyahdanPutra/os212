@@ -5,3 +5,9 @@ ZCZC W00 10 L02 GitHub related
 ZCZC W00 120 L01 Weekly reflection, forum discussion
 ZCZC W00 60 L84 Relax, chill, scrolling through social media
 ZCZC W00 120 L80 Rewatch Money Heist P4
+ZCZC WO1 140 L02 OS Zoom class
+ZCZC W01 5 L05 OS Quiz
+ZCZC W01 120 L12 Assignment #00 until Assignment #02
+ZCZC W01 120 L73 Valorant, BFV
+ZCZC W01 60 L64 Helping OS related problem to a friend
+ZCZC W01 120 L17 Assignment #03 until Assignment #07
