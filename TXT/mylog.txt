@@ -7,7 +7,14 @@ ZCZC W00 60 L84 Relax, chill, scrolling through social media
 ZCZC W00 120 L80 Rewatch Money Heist P4
 ZCZC W01 140 L02 OS Zoom class
 ZCZC W01 5 L05 OS Quiz
-ZCZC W01 120 L12 Assignment #00 until Assignment #02
+ZCZC W01 30 L10 Assignment #00
+ZCZC W01 30 L11 Assignment #01
+ZCZC W01 60 L12 Assignment #02
 ZCZC W01 120 L73 Valorant, BFV
 ZCZC W01 60 L64 Helping OS related problem to a friend
-ZCZC W01 120 L17 Assignment #03 until Assignment #07
+ZCZC W01 60 L13 Assignment #03
+ZCZC W01 30 L14 Assignment #04
+ZCZC W01 15 L15 Assignment #05
+ZCZC W01 10 L17 Assignment #07
+
+
