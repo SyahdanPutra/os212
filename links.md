@@ -1,7 +1,7 @@
 ---
 permalink: /LINKS/
 ---
-| [HOME](https://syahdanputra.github.io/os212/) | [REPO](https://github.com/SyahdanPutra/os212) | [LOG](/master/TXT/mylog.txt) | [LINKS]()
+| [HOME](https://syahdanputra.github.io/os212/) | [REPO](https://github.com/SyahdanPutra/os212) | [LOG](https://github.com/SyahdanPutra/os212/blob/master/TXT/mylog.txt) | [LINKS]()
 
 ## Links That Might Come Handy for This Course
 Links below might come handy for learning this course. Go check it out!
