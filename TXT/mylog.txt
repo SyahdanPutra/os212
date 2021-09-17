@@ -19,3 +19,7 @@ ZCZC W01 10 L17 Assignment #07
 ZCZC W01 60 L19 Assignment #09
 ZCZC W01 30 L18 Assignment #08
 ZCZC W01 20 L80 Watch boruto newly released episode
+ZCZC W02 60 L09 Doing weekly OS assignment
+ZCZC W02 60 L64 Helping OS related problem to a friend
+ZCZC W02 120 L70 Studying for other courses
+ZCZC W02 90 L73 Gaming
