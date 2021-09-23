@@ -27,3 +27,10 @@ ZCZC W02 90 L26 Learn C Syntax
 ZCZC W02 120 L02 OS Zoom Class
 ZCZC W02 90 L80 Watch Don't Breathe 2
 ZCZC W02 60 L06 GSGS about Django
+ZCZC W03 30 L14 Assignment #04
+ZCZC W03 30 L15 Assignment #05
+ZCZC W03 30 L16 Assignment #06
+ZCZC W03 30 L17 Assignment #07
+ZCZC W03 10 L18 Assignment #08
+ZCZC W03 5 L19 Assignment #09
+ZCZC W03 140 L02 OS Zoom class
