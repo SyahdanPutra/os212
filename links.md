@@ -1,3 +1,4 @@
+---
 permalink: /LINKS/
 ---
 | [HOME](https://syahdanputra.github.io/os212/) | [REPO](https://github.com/SyahdanPutra/os212) | [LOG](https://github.com/SyahdanPutra/os212/blob/master/TXT/mylog.txt) | [LINKS]()
