@@ -40,3 +40,12 @@ ZCZC W03 30 L13 Assignment #03
 ZCZC W03 20 L80 Watch boruto
 ZCZC W03 30 L06 GSGS about Linux File System
 ZCZC W03 60 L73 Gaming
+ZCZC W04 60 L11 Assignment #01
+ZCZC W04 30 L12 Assignment #02
+ZCZC W04 30 L13 Assignment #03
+ZCZC W04 30 L09 Assignment #04 - #09
+ZCZC W04 15 L64 Helping OS related problem to a friend
+ZCZC W04 120 L99 Doing Tugas Pemrograman 1
+ZCZC W04 90 L80 Watch Shang-chi
+ZCZC W04 5 L08 Asked Asdos about GHP
+ZCZC W04 15 L06 GSGS about linux commands

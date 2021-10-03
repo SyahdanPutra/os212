@@ -40,3 +40,14 @@ This website explains Linux file system architecture, types and feature.
 This is a cheatsheet for Linux Disk Management command useful for beginners.
 ### 5. [What is Bash Aliases?](https://linuxize.com/post/how-to-create-bash-aliases/ "Click to open")
 This website explains about what bash aliases is and some alias command in Linux.
+## W04
+### 1. [Moving Files and Directories in Linux](https://www.linuxid.net/25473/tutorial-perintah-mv-dan-penggunaan-di-linux-terminal/ "Click to open")
+This website contains tutorial of Linux Command for moving files and directories.
+### 2. [What is Use-After-Free in C?](https://encyclopedia.kaspersky.com/glossary/use-after-free/ "Click to Open")
+This article explains about Use-After-Free vulnarabilities in C's dynamic memory allocation.
+### 3. [Dynamic Memory Allocation in C] (https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/ "Click to Open")
+This article explains about Dynamic Memory Allocation in C with syntax examples.
+### 4. [Intro to Linux Memory Management](https://www.youtube.com/watch?v=wbi6IZDIv_4 "Click to open video")
+This YouTube video is about an introduction to Linux Memory Management for beginners.
+### 5. [Why Linux is Better for Programming](https://www.youtube.com/watch?v=otDOHt_Jges "Click to Open Video")
+This video is about reasons why Linux is better for programming than any other Operating System.
