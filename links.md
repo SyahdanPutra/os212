@@ -45,7 +45,7 @@ This website explains about what bash aliases is and some alias command in Linux
 This website contains tutorial of Linux Command for moving files and directories.
 ### 2. [What is Use-After-Free in C?](https://encyclopedia.kaspersky.com/glossary/use-after-free/ "Click to Open")
 This article explains about Use-After-Free vulnarabilities in C's dynamic memory allocation.
-### 3. [Dynamic Memory Allocation in C] (https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/ "Click to Open")
+### 3. [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/ "Click to Open")
 This article explains about Dynamic Memory Allocation in C with syntax examples.
 ### 4. [Intro to Linux Memory Management](https://www.youtube.com/watch?v=wbi6IZDIv_4 "Click to open video")
 This YouTube video is about an introduction to Linux Memory Management for beginners.
