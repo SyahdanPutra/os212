@@ -49,3 +49,17 @@ ZCZC W04 120 L99 Doing Tugas Pemrograman 1
 ZCZC W04 90 L80 Watch Shang-chi
 ZCZC W04 5 L08 Asked Asdos about GHP
 ZCZC W04 15 L06 GSGS about linux commands
+ZCZC W05 45 L11 Assignment #01
+ZCZC W05 30 L12 Assignemnt #02
+ZCZC W05 30 L13 Assignment #03
+ZCZC W05 45 L14 Assignment #04
+ZCZC W05 20 L15 Assignment #05
+ZCZC W05 5 L17 Assignment #07
+ZCZC W05 10 L18 Assignment #08
+ZCZC W05 5 L19 Assignment #09
+ZCZC W05 15 L06 GSGS About linux command
+ZCZC W05 140 L02 OS Zoom class
+ZCZC W05 60 L07 Demo PBP lab 2 and 3
+ZCZC W05 10 L28 Accessing os212.vlsm.org with ssh
+ZCZC W05 120 L70 Studying for other courses
+ZCZC W05 120 L73 Gaming
