@@ -52,13 +52,13 @@ This YouTube video is about an introduction to Linux Memory Management for begin
 ### 5. [Why Linux is Better for Programming](https://www.youtube.com/watch?v=otDOHt_Jges "Click to Open Video")
 This video is about reasons why Linux is better for programming than any other Operating System.
 ## W05
-### 1. (Linux Memory Usage)[https://www.cyberciti.biz/faq/linux-check-memory-usage/  "Click to Open"]
+### 1. [Linux Memory Usage](https://www.cyberciti.biz/faq/linux-check-memory-usage/  "Click to Open")
 This website contains linux commands to check memory usage.
-### 2. (C Memory Allocation)[https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/ "Click to Open"]
+### 2. [C Memory Allocation](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/ "Click to Open")
 This website explains what memory allocation is in programming language C and it's syntax.
-### 3. (What is Virtual Memory?)[https://techmonitor.ai/what-is/what-is-virtual-memory-4929986#:~:text=Virtual%20memory%20is%20a%20feature,space%20on%20the%20hard%20disk. "Click to Open"]
+### 3. [What is Virtual Memory?](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986#:~:text=Virtual%20memory%20is%20a%20feature,space%20on%20the%20hard%20disk. "Click to Open")
 This article simply explains what virtual memory is and it's correlation with RAM and paging files.
-### 4. (What is Kernel Memory?)[https://www.techwalla.com/articles/what-is-kernel-memory-in-task-manager "Click to Open"]
+### 4. [What is Kernel Memory?](https://www.techwalla.com/articles/what-is-kernel-memory-in-task-manager "Click to Open")
 This article explains about what kernel memory is and it's correlation with RAM and virtual memory.
-### 5. (Linux Swap Space)[https://opensource.com/article/18/9/swap-space-linux-systems "Click to Open"]
+### 5. [Linux Swap Space](https://opensource.com/article/18/9/swap-space-linux-systems "Click to Open")
 This website explain thoroughly about linux memory swap space and trashing.
