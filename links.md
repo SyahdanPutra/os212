@@ -67,7 +67,7 @@ This website explain thoroughly about linux memory swap space and trashing.
 This website explains what does fork() command do in C language.
 ### 2. [Process VS Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/ "Click to Open")
 This website explains the difference between process and thread in operating system.
-### 3. [Multiprocessing VS MultiThreading](https://www.geeksforgeeks.org/difference-between-multiprocessing-and-multithreading/ "Click to Open")
+### 3. [Multiprocessing VS Multithreading](https://www.geeksforgeeks.org/difference-between-multiprocessing-and-multithreading/ "Click to Open")
 This website explains the difference between multiprocessing and multithreading in operating system.
 ### 4. [Benefits of Multithreading](https://www.geeksforgeeks.org/benefits-of-multithreading-in-operating-system/ "Click to Open")
 This website explains about benefits of multithreading.
