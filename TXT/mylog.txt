@@ -63,3 +63,17 @@ ZCZC W05 60 L07 Demo PBP lab 2 and 3
 ZCZC W05 10 L28 Accessing os212.vlsm.org with ssh
 ZCZC W05 120 L70 Studying for other courses
 ZCZC W05 120 L73 Gaming
+ZCZC W06 30 L11 Assignment #01
+ZCZC W06 30 L12 Assignment #02
+ZCZC W06 30 L13 Assignment #03
+ZCZC W06 20 L14 Assignment #04
+ZCZC W06 15 L15 Assignment #05
+ZCZC W06 5 L17 Assignment #07
+ZCZC W06 5 L18 Assignment #08
+ZCZC W06 5 L19 Assignment #09
+ZCZC W06 100 L02 OS Zoom class
+ZCZC W06 20 L05 Quiz related
+ZCZC W06 120 L73 Gaming
+ZCZC W06 120 L70 Studying SDA for midtest
+ZCZC W06 30 L81 Listening to music
+ZCZC W06 60 L80 Watching YouTube

@@ -62,3 +62,14 @@ This article simply explains what virtual memory is and it's correlation with RA
 This article explains about what kernel memory is and it's correlation with RAM and virtual memory.
 ### 5. [Linux Swap Space](https://opensource.com/article/18/9/swap-space-linux-systems "Click to Open")
 This website explain thoroughly about linux memory swap space and trashing.
+## W06
+### 1. [The fork() Command in C](https://www.geeksforgeeks.org/fork-system-call/ "Click to Open")
+This website explains what does fork() command do in C language.
+### 2. [Process VS Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/ "Click to Open")
+This website explains the difference between process and thread in operating system.
+### 3. [Multiprocessing VS MultiThreading](https://www.geeksforgeeks.org/difference-between-multiprocessing-and-multithreading/ "Click to Open")
+This website explains the difference between multiprocessing and multithreading in operating system.
+### 4. [Benefits of Multithreading](https://www.geeksforgeeks.org/benefits-of-multithreading-in-operating-system/ "Click to Open")
+This website explains about benefits of multithreading.
+### 5. [Concurrency VS Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/ "Click to Open")
+This website explains the difference between concurrency and parallelism in operating system.
