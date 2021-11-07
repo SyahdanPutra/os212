@@ -73,3 +73,10 @@ This website explains the difference between multiprocessing and multithreading 
 This website explains about benefits of multithreading.
 ### 5. [Concurrency VS Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/ "Click to Open")
 This website explains the difference between concurrency and parallelism in operating system.
+## W07
+### 1. [Process Synchronization](https://www.guru99.com/process-synchronization.html "Click to Open")
+This articel explains about process synchronization with peterson and semaphone solution.
+### 2. [Deadlock and Starvation](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/ "Click to Open")
+This website explains about deadlock and starvation in OS.
+### 3. [Mutex VS Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/ "Click to Open")
+This website explains when we should use mutex or semaphore for synchronization in OS.

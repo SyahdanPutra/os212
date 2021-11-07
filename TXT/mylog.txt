@@ -77,3 +77,15 @@ ZCZC W06 120 L73 Gaming
 ZCZC W06 120 L70 Studying SDA for midtest
 ZCZC W06 30 L81 Listening to music
 ZCZC W06 60 L80 Watching YouTube
+ZCZC W07 30 L11 Assignment #01
+ZCZC W07 30 L12 Assignment #02
+ZCZC W07 30 L13 Assignment #03
+ZCZC W07 30 L14 Assignment #04
+ZCZC W07 140 L02 OS Zoom Class
+ZCZC W07 20 L22 OS Quiz
+ZCZC W07 30 L81 Listening to music
+ZCZC W07 120 Studing for other courses
+ZCZC W07 15 L15 Assignment #05
+ZCZC W07 10 L17 Assignment #07
+ZCZC W07 5 L18 Assignment #08
+ZCZC W07 5 L19 Assignment #09
