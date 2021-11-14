@@ -89,3 +89,17 @@ ZCZC W07 15 L15 Assignment #05
 ZCZC W07 10 L17 Assignment #07
 ZCZC W07 5 L18 Assignment #08
 ZCZC W07 5 L19 Assignment #09
+ZCZC W08 30 L11 Assignment #01
+ZCZC W08 30 L12 Assignment #02
+ZCZC W08 30 L13 Assignment #03
+ZCZC W08 60 L14 Assignment #04
+ZCZC W08 60 L15 Assignment #05
+ZCZC W08 10 L16 Assignment #06
+ZCZC W08 5 L18 Assignment #08
+ZCZC W08 5 L19 Assignment #09
+ZCZC W08 5 L20 Assignment #10
+ZCZC W08 120 L02 OS class Zoom Meeting
+ZCZC W08 20 L22 OS Quiz
+ZCZC W08 30 L81 Listening to music
+ZCZC W08 120 L70 Studying for other courses
+ZCZC W08 30 L06 GSGS About LFS
