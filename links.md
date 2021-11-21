@@ -95,3 +95,11 @@ This articel explains about Process Scheduling in OS.
 This website explains about Multiple-Processor Scheduling in OS.
 ### 3. [States of a Process](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/ "Click to Open")
 This website explains about States of a Process in OS.
+
+## W09
+### 1. [Storage Management](https://www.geeksforgeeks.org/storage-management/ "Click to Open")
+This website explains storage management in OS.
+### 2. [What is Bootloader?](https://www.makeuseof.com/what-is-a-bootloader/ "Click to Open")
+This article explains what Operating System Bootloader is.
+### 3. [RAID](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/ "Click to Open")
+This website explains redundant arrays of independent disk/RAID in OS.

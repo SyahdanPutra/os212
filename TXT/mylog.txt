@@ -103,3 +103,16 @@ ZCZC W08 20 L22 OS Quiz
 ZCZC W08 30 L81 Listening to music
 ZCZC W08 120 L70 Studying for other courses
 ZCZC W08 30 L06 GSGS About LFS
+ZCZC W09 30 L11 Assignment #01
+ZCZC W09 30 L12 Assignment #02
+ZCZC W09 30 L13 Assignment #03
+ZCZC W09 90 L14 Assignment #04
+ZCZC W09 20 L15 Assignment #05
+ZCZC W09 10 L17 Assignment #07
+ZCZC W09 10 L18 Assignment #08
+ZCZC W09 5 L19 Assignment #09
+ZCZC W09 120 L02 OS Class Zoom Meeting
+ZCZC W09 20 L22 OS Quiz
+ZCZC W09 30 L81 Listening to music
+ZCZC W09 30 L80 Watching YouTube
+ZCZC W09 60 L70 Studying for other courses
