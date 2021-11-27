@@ -103,3 +103,9 @@ This website explains storage management in OS.
 This article explains what Operating System Bootloader is.
 ### 3. [RAID](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/ "Click to Open")
 This website explains redundant arrays of independent disk/RAID in OS.
+
+## W10
+### 1. [Direct vs Memory Mapped I/O]( https://www.geeksforgeeks.org/difference-between-memory-mapped-io-and-io-mapped-io-with-reference-to-8085-microprocessor/ "Click to Open")
+This website explains differences between Direct  I/O and Memory Mapped I/O with reference to 8085 microprocessor in OS.
+### 2. [I/O Structure]( https://www.tutorialspoint.com/operating_system/os_io_software.htm "Click to Open")
+This website explains I/O structure in OS.

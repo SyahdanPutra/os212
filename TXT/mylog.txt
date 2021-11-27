@@ -116,3 +116,16 @@ ZCZC W09 20 L22 OS Quiz
 ZCZC W09 30 L81 Listening to music
 ZCZC W09 30 L80 Watching YouTube
 ZCZC W09 60 L70 Studying for other courses
+ZCZC W10 40 L22 OS Quiz
+ZCZC W10 180 L02 OS Zoom Meetings
+ZCZC W10 60 L11 Assignment #01
+ZCZC W10 90 L12 Assignment #02
+ZCZC W10 120 L13 Assignment #03
+ZCZC W10 720 L14 Assignment #04
+ZCZC W10 15 L15 Assignment #05
+ZCZC W10 10 L17 Assignment #07
+ZCZC W10 15 L18 Assignment #08
+ZCZC W10 5 L19 Assignment #09
+ZCZC W10 60 L32 watch Youtube Studying LFS
+ZCZC W10 120 L70 Studying for other course
+ZCZC W10 60 L73 Gaming
